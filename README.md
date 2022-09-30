@@ -1,2 +1,2 @@
 # java-class
-Repository for Java Basic course
+Repository for Java Basic course.
